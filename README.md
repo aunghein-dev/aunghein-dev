@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/143636800?v=4" alt="Profile Picture" width="100" style="border-radius:50%;"/>
+  <img src="https://raw.githubusercontent.com/aunghein-dev/aunghein-dev/main/greet.gif" width="180px" alt="Waving Hand GIF"> 
 </p>
 
-# 👋 Hi, I'm Aung Hein!
+<h2 align="center">
+  <b>Hi, I'm Aung Hein!</b>
+</h2>
 
-`Passionate Full-stack Developer | Building Scalable & Intuitive Web Solutions`
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=200&color=F7DF1E&width=435&lines=Passionate+Full-stack+Developer;Building+Scalable+Web+Solutions;Crafting+Intuitive+Experiences" alt="Typing effect" />
+</p>
 
 ---
 
@@ -54,6 +58,14 @@ My recent activity and contributions on GitHub:
 
 ---
 
+### 🔥 My GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aunghein-dev&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+---
+
 ### 🌐 Connect with Me
 
 Let's connect and build something amazing!
@@ -68,3 +80,9 @@ Let's connect and build something amazing!
 ---
 
 > ✨ "The only way to do great work is to love what you do." - Steve Jobs ✨
+
+---
+
+Remember to **update your avatar image file to be circular** outside of GitHub (using a photo editor) and then upload that prepared image if you want the `border-radius` effect. GitHub's Markdown doesn't render that specific CSS property directly.
+
+Give this a try, and see your profile come to life!
