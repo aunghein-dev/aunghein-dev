@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/143636800?v=4" alt="Aung Hein's Profile Picture" width="150" style="border-radius:50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/143636800?v=4" alt="Profile Picture" width="100" style="border-radius:50%;"/>
 </p>
 
 # 👋 Hi, I'm Aung Hein!
