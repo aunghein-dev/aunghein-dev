@@ -81,6 +81,3 @@ Let's connect and build something amazing!
 
 ---
 
-Remember to **update your avatar image file to be circular** outside of GitHub (using a photo editor) and then upload that prepared image if you want the `border-radius` effect. GitHub's Markdown doesn't render that specific CSS property directly.
-
-Give this a try, and see your profile come to life!
