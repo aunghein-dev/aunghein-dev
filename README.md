@@ -64,8 +64,6 @@ My recent activity and contributions on GitHub:
 
 ---
 
----
-
 ### 🌐 Connect with Me
 
 Let's connect and build something amazing!
