@@ -15,8 +15,6 @@ I am a full-stack software developer from [Myanmar (Burma) 🇲🇲](https://www
 
 Passionate about solving complex challenges, I focus on continuous improvement and impactful solutions. I thrive in collaborative environments, adapting quickly to new technologies and contributing to meaningful projects.
 
-</br>
-
 **🌐 Connect with me:**
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aunghein-dev)
@@ -59,14 +57,14 @@ Passionate about solving complex challenges, I focus on continuous improvement a
 <details>
 <summary>📈 &nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=aunghein-dev&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react&hide_border=true" alt="GitHub Stats/Statistics" align="top"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aunghein-dev&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Stats/Statistics" align="top"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aunghein-dev&layout=compact&theme=react&hide_border=true&title_color=afc2ef&icon_color=afc2ef" alt="GitHub Top or Most Used Languages" align="top"/>
 </details>
 
 <details>
 <summary>🔥 &nbsp;&nbsp;&nbsp;<b>My GitHub Streak</b></summary>
 <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aunghein-dev&theme=react&hide_border=true&ring=afc2ef&fire=afc2ef&currStreakLabel=afc2ef" />
+<img src="https://streak-stats.demolab.com?user=aunghein-dev&theme=react&hide_border=true&ring=afc2ef&fire=afc2ef&currStreakLabel=afc2ef" alt="GitHub Streak"/>
 </details>
 
 <details>
