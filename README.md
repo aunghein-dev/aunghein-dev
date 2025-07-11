@@ -69,10 +69,9 @@ Passionate about solving complex challenges, I focus on continuous improvement a
 <details>
 <summary>🔥 &nbsp;&nbsp;&nbsp;<b>My GitHub Streak</b></summary>
 <br/>
-<img src="https://streak-stats.demolab.com?user=aunghein-dev&theme=react&hide_border=true&ring=afc2ef&fire=afc2ef&currStreakLabel=afc2ef" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aunghein-dev&theme=react&hide_border=true&ring=afc2ef&fire=afc2ef&currStreakLabel=afc2ef" />
 <br/><br/>
 </details>
-
 
 <details>
 <summary>💿&nbsp;&nbsp;&nbsp;<b>Spotify Activity</b></summary>
