@@ -61,10 +61,11 @@ Passionate about solving complex challenges, I focus on continuous improvement a
 <details>
 <summary>📈 &nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=aunghein-dev&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react&hide_border=true" alt="GitHub Stats/Statistics" align="top"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aunghein-dev&layout=compact&theme=react&hide_border=true&title_color=afc2ef&icon_color=afc2ef" alt="GitHub Top or Most Used Languages" align="top"/>
+<img src="https://github-readme-stats-brown-gamma.vercel.app/api?username=aunghein-dev&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react&hide_border=true" alt="GitHub Stats/Statistics" align="top"/>
+<img src="https://github-readme-stats-brown-gamma.vercel.app/api/top-langs/?username=aunghein-dev&layout=compact&theme=react&hide_border=true&title_color=afc2ef&icon_color=afc2ef" alt="GitHub Top or Most Used Languages" align="top"/>
 <br/><br/>
 </details>
+
 
 <details>
 <summary>🔥 &nbsp;&nbsp;&nbsp;<b>My GitHub Streak</b></summary>
