@@ -61,17 +61,11 @@ Passionate about solving complex challenges, I focus on continuous improvement a
   <summary>📈 &nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
   <br/>
 
-  <p align="center">
-    <img 
-      src="https://github-readme-stats-brown-gamma.vercel.app/api?username=aunghein-dev&show_icons=true&theme=react&hide_border=true&title_color=afc2ef&icon_color=afc2ef&v=2" 
-      width="48%" 
-    />
-    <img 
-      src="https://github-readme-stats-brown-gamma.vercel.app/api/top-langs/?username=aunghein-dev&layout=compact&theme=react&hide_border=true&title_color=afc2ef&icon_color=afc2ef&v=2" 
-      width="48%" 
-    />
-  </p>
+  <img height="180" alt="GitHub Stats"
+    src="https://github-readme-stats-brown-gamma.vercel.app/api?username=aunghein-dev&show_icons=true&theme=react&hide_border=true&title_color=afc2ef&icon_color=afc2ef&card_width=480&v=20" /><img height="180" alt="Top Languages"
+    src="https://github-readme-stats-brown-gamma.vercel.app/api/top-langs/?username=aunghein-dev&theme=react&hide_border=true&title_color=afc2ef&icon_color=afc2ef&card_width=480&langs_count=3&v=20" />
 
+  <br/>
 </details>
 
 <details>
