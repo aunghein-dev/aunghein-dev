@@ -78,7 +78,7 @@ Passionate about solving complex challenges, I focus on continuous improvement a
 <details>
 <summary>💿&nbsp;&nbsp;&nbsp;<b>Spotify Activity</b></summary>
 <br/>
-<a href="https://tunez.jahir.dev" target="_blank">
+<a href="https://aunghein.vercel.app" target="_blank">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=xilprhvmycrkq4mccebguxvr5&unique=true" alt="Recently played songs on Spotify" />
 </a>
 </details>
