@@ -17,11 +17,3 @@
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aunghein.mailer@gmail.com?subject=Hi%20Aung%20Hein!)
 </br>
 </br>
-
-<details>
-<summary>💿&nbsp;&nbsp;&nbsp;<b>Spotify Activity</b></summary>
-<br/>
-<a href="https://aunghein.vercel.app" target="_blank">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=xilprhvmycrkq4mccebguxvr5&unique=true" alt="Recently played songs on Spotify" />
-</a>
-</details>
