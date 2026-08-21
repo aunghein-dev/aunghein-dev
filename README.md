@@ -7,16 +7,6 @@
    Hi, I'm Aung Hein!
 </h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=200&color=F7DF1E&width=435&lines=Passionate+Full-stack+Developer;Building+Scalable+Web+Solutions;Crafting+Intuitive+Experiences" alt="Typing effect" />
-</p>
-
-I am a full-stack software developer from [Myanmar (Burma) 🇲🇲](https://www.google.com/maps/place/Myanmar/@4,-72z/), skilled in building scalable systems and intuitive UIs. I deliver performance-driven software across both frontend and backend, ensuring efficient, seamless user experiences.
-
-Passionate about solving complex challenges, I focus on continuous improvement and impactful solutions. I thrive in collaborative environments, adapting quickly to new technologies and contributing to meaningful projects.
-
-</br>
-
 **Connect with me:**
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aunghein-dev)
